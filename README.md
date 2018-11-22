@@ -4,6 +4,8 @@ minimum_branching-stereo-matching is a non-local cost aggregation stereo matchin
 can segment an image to fragments, which helps us to distinguish the texture and textless region of the image.
 ![Image text](https://raw.githubusercontent.com/zssjh/git_img/master/1__.png)
 
+The project is running on visual studio 2013 in windows
+
 experimental result：
 We test the algorithm on Middlebury Stereo including 2005,2006 and 2014 version and real scene, and receive better results than non-local[3] and ST method
 [4].
