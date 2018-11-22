@@ -20,8 +20,8 @@ The second column is segment result relaized by our own method, and the followin
 ST.
 
 
-[1]
-[2]
+[1]Chu Y J, Liu T H. On the shortest arborescence of a directed graph. Scientia Sinica, 1965, 14(10): 1396-1400
+[2]Tarjan R E. Finding optimum branchings. Networks, 1977, 7(1): 25-35
 [3]Yang Q. A non-local cost aggregation method for stereo matching[C]//Computer Vision and Pattern Recognition (CVPR), 2012 IEEE Conference on. IEEE, 2012: 1402-1409.
 [4]Mei X, Sun X, Dong W, et al. Segment-tree based cost aggregation for stereo matching[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2013: 313-320.
 
