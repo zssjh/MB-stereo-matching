@@ -2,7 +2,7 @@
 MB-stereo-matching is a non-local cost aggregation stereo matching algorithm，which depends on minimum branching[1]
 (a directed version of minimum spanning tree). we use Tarjan‘s method[2] to construct minimum branching, and the process of construction can segment an image to fragments, which helps us to distinguish the texture and textless region of the image.
 
-<div align=center><src="https://raw.githubusercontent.com/zssjh/git_img/master/1__.png"/></div>
+<div align=center><src="https://raw.githubusercontent.com/zssjh/git_img/master/1__.png"></div>
 
 **Environment:**
 
